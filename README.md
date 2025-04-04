@@ -1,0 +1,2 @@
+# dotBspwm
+Bspwm config  :)
